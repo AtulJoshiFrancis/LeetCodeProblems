@@ -1,6 +1,6 @@
 from typing import List
 
-def twoSum(self, nums: List[int], target: int) -> List[int]:
+def twoSum(nums: List[int], target: int) -> List[int]:
     """
     Given a list of integers `nums` and an integer `target`, 
     this function finds two distinct indices in the list such that 
